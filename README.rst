@@ -79,7 +79,8 @@ Usage
 
 ::
 
-    Usage: pip-autoremove [OPTION]... [NAME]...
+    Usage: pip-autoremove [OPTION]... [NAME]... (or)
+      python -m pip_autoremove [OPTION]... [NAME]...
 
     Options:
       --version     show program's version number and exit
